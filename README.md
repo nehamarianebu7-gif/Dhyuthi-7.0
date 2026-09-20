@@ -1,4 +1,4 @@
-# Dhyuthi 7.0
+## Dhyuthi 7.0
 
 A futuristic and responsive event website designed and developed for **Dhyuthi 7.0**, the flagship event of **IEEE SCT SB** at Sree Chitra Thirunal College of Engineering.
 
@@ -55,3 +55,9 @@ Dhyuthi-7.0/
 ├── package.json
 ├── package-lock.json
 └── README.md
+## ✦ Running the Project Locally
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/nehamarianebu7-gif/Dhyuthi-7.0.git
