@@ -26,6 +26,7 @@ The website follows a futuristic cyber-inspired visual style using a dark interf
 - Event information and statistics
 - About Dhyuthi section
 - Integrated venue map
+- Registration button
 - Contact information
 - Responsive layouts for mobile, tablet, laptop, and desktop
 
