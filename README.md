@@ -1,16 +1,56 @@
-# React + Vite
+# Dhyuthi 7.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A futuristic and responsive event website designed and developed for **Dhyuthi 7.0**, the flagship event of **IEEE SCT SB** at Sree Chitra Thirunal College of Engineering.
 
-Currently, two official plugins are available:
+The website presents Dhyuthi as a three-day technology experience built around innovation, creativity, collaboration, workshops, competitions, talks, and interactive events.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✦ About Dhyuthi 7.0
 
-## React Compiler
+**Dhyuthi 7.0** brings together four technology-focused tracks:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **NEXUS** — Robotics & Intelligent Systems
+- **SYNAPSE** — Artificial Intelligence & Web
+- **HELIX** — Biotechnology & Bio-Innovation
+- **FORGE** — Mechanical Engineering
 
-## Expanding the ESLint configuration
+The website follows a futuristic cyber-inspired visual style using a dark interface, teal accents, perspective grids, and minimal animations.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✦ Features
+
+- Responsive single-page website
+- Futuristic black and teal interface
+- Interactive event track cards
+- Expandable track information
+- Three-day interactive schedule
+- Responsive navigation menu
+- Event information and statistics
+- About Dhyuthi section
+- Integrated venue map
+- Contact information
+- Responsive layouts for mobile, tablet, laptop, and desktop
+
+## ✦ Technologies Used
+
+- React
+- JavaScript
+- HTML / JSX
+- CSS
+- Vite
+- Google Fonts
+- Google Maps Embed
+
+## ✦ Project Structure
+
+```text
+Dhyuthi-7.0/
+├── public/
+│   └── logos/
+├── src/
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── Doc/
+├── index.html
+├── package.json
+├── package-lock.json
+└── README.md
